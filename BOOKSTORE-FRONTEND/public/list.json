@@ -1,0 +1,130 @@
+[
+    {
+        "id":"1",
+        "name":"Story Book",
+        "title":"A collection of short stories filled with fantastical adventures,    magical creatures, and whimsical worlds",
+        "price":0,
+        "category":"Free",
+        "image":"https://media.istockphoto.com/id/1087508538/photo/open-book-with-hand-drawn-landscape.webp?b=1&s=170667a&w=0&k=20&c=JcxtmMoDRKnS9QXNwfePHDSu4WWHJSwehguwyrwCuBE="
+    },
+    {
+        "id":"1",
+        "name":"Biography Book",
+        "title":"The inspiring story the architect who designed the Vietnam Veterans Memorial, highlighting groundbreaking career.",
+        "price":46,
+        "category":"Paid",
+        "image":"https://t3.ftcdn.net/jpg/03/85/77/90/240_F_385779068_USMqQN4sIMdTdBjXv9VNIX6NT5zi9kIU.jpg"
+    },
+    {
+        "id":"1",
+        "name":"Love Story Book",
+        "title":"A novelist and a painter uncover each other’s secrets and pasts, leading to an unexpected romance.",
+        "price":0,
+        "category":"Free",
+        "image":"https://t3.ftcdn.net/jpg/06/36/97/50/240_F_636975074_yW0dIRWRcKXYq9iJdFqXFzSZYjeTEwtd.jpg"
+    },
+    {
+        "id":"1",
+        "name":"Science Book",
+        "title":"Captain Mira Reynolds explores an uncharted galaxy, facing alien civilizations and cosmic threats that challenge humanity.",
+        "price":34,
+        "category":"Paid",
+        "image":"https://media.istockphoto.com/id/1308595699/photo/book-of-the-universe-opened-magic-book-with-planets-and-galaxies-elements-of-this-image.webp?b=1&s=170667a&w=0&k=20&c=0cXMJOTsESNa1R_82WcSTKgqGxk2UUw6j0lNr-NELr4="
+    },
+    {
+        "id":"1",
+        "name":"Historical Book",
+        "title":"During WWII, a British nurse, a German soldier, and a French resistance fighter's lives intertwine amid the chaos of war.",
+        "price":0,
+        "category":"Free",
+        "image":"https://t3.ftcdn.net/jpg/08/09/45/54/240_F_809455406_dl73gQG5nPAZ4pUMjYwnxFXK7aZ8U7Fb.jpg"
+    },
+    {
+        "id":"1",
+        "name":"Mystery Book",
+        "title":"Detective Jane Carter hunts a serial killer who leaves origami cranes, uncovering a conspiracy tied to her own past.",
+        "price":37,
+        "category":"Paid",
+        "image":"https://t3.ftcdn.net/jpg/00/88/33/68/240_F_88336888_QJnhmvblOiAfP3tUodIzTLRKwaeK5wbL.jpg"
+    },
+    {
+        "id":"1",
+        "name":"Fantasy Book",
+        "title":"Teenagers with elemental powers unite to protect their world from dark forces threatening nature's balance.",
+        "price":45,
+        "category":"Paid",
+        "image":"https://media.istockphoto.com/id/1279460648/photo/concept-of-an-open-magic-book-open-pages-with-water-and-land-and-small-child-fantasy-nature.webp?b=1&s=170667a&w=0&k=20&c=EMN20wq_RG3NfstlcGdwhiNCzjrbNwL6MPJcwbRXwl8="
+    },
+    {
+        "id":"1",
+        "name":"Magic Book",
+        "title":"Lulu, a curious rabbit, discovers a meadow where flowers sing and trees talk, leading her on magical adventures.",
+        "price":0,
+        "category":"Free",
+        "image":"https://t4.ftcdn.net/jpg/01/05/68/07/240_F_105680756_UbrdfpeC3bLr2K2T3E9mWMexaZS96INR.jpg"
+    },
+    {
+        "id":"1",
+        "name":"Comedy Book",
+        "title":"A comprehensive look at the golden age of cinema, highlighting iconic films and the visionary directors who made them.",
+        "price":0,
+        "category":"Free",
+        "image":"https://t3.ftcdn.net/jpg/01/13/86/50/240_F_113865094_jTGc45xhOoZ7EfEJPMcu6RokiK75A8tj.jpg"
+    },
+    {
+        "id":"1",
+        "name":"Poem Book",
+        "title":"Every verse captures emotions, weaving intricate tales that touch the soul deeply and profoundly.",
+        "price":0,
+        "category":"Free",
+        "image":"https://media.istockphoto.com/id/614125152/photo/poetry-book-at-sunset.webp?b=1&s=170667a&w=0&k=20&c=deCKjW9fnFJ15WaI9jxqT5klRE4WL3s3gzzTmo1foi0="
+    },
+    {
+        "id":"1",
+        "name":"Action Book",
+        "title":"In the midst of chaos, the hero's quick reflexes and determination lead to an epic showdown.",
+        "price":0,
+        "category":"Free",
+        "image":"https://media.istockphoto.com/id/1192632558/photo/whats-your-story-world-title-on-film-slate.webp?b=1&s=170667a&w=0&k=20&c=D8S4f37QWNDeR9R-MCKIFMjJdtcl-inZ6AWI_pu3gaU="
+    },
+     {
+        "id":"1",
+        "name":"Horror Book",
+        "title":"As the ancient mansion's doors creaked open, chilling whispers filled the air with dread.",
+        "price":0,
+        "category":"Paid",
+        "image":"https://media.istockphoto.com/id/853418548/photo/wizards-desk.webp?b=1&s=170667a&w=0&k=20&c=S-HZ6qWLyybE1VZzqyAPyRmlazd8CzjJUmpjjtrieic="
+    },
+     {
+        "id":"1",
+        "name":"Math Book",
+        "title": "Complex equations and theories unravel the universe's mysteries, revealing patterns hidden in plain sight.",
+        "price":34,
+        "category":"Paid",
+        "image":"https://media.istockphoto.com/id/1198644091/photo/stack-of-books-in-front-of-a-blackboard.webp?b=1&s=170667a&w=0&k=20&c=EPuhwtdURbrHobuh5eAxun9rX1GRqWwigwsN-HzaW0o="
+    },
+     {
+        "id":"1",
+        "name":"Art Book",
+        "title": "Vivid colors and bold strokes bring life to canvases, telling stories without uttering a single word.",
+        "price":0,
+        "category":"Free",
+        "image":"https://media.istockphoto.com/id/1312805922/photo/contemporary-art-collage-modern-design-aesthetic-of-hands-trendy-colors.webp?b=1&s=170667a&w=0&k=20&c=0Q4CHTSbTKb9wHe7ZLPGx680y4axAu2B_m_KyCiC_9c="
+    },
+     {
+        "id":"1",
+        "name":"Sport Book",
+        "title":"The underdog team fought fiercely, every play a testament to their unyielding spirit and teamwork.",
+        "price":34,
+        "category":"Paid",
+        "image":"https://media.istockphoto.com/id/538012183/photo/open-book-with-green-grass-soccer-stadium.webp?b=1&s=170667a&w=0&k=20&c=-48ouKWgzsEzxzyJO9sOFvT__bXWNo7vzO3qrN_3s50="
+    },
+     {
+        "id":"1",
+        "name":"Sci-Fi Book",
+        "title":"Explorers aboard the starship venture into uncharted galaxies, encountering wonders beyond human imagination.",
+        "price":43,
+        "category":"Paid",
+        "image":"https://media.istockphoto.com/id/1032434164/photo/night-beautiful-scene-of-modern-city-skyline-pop-up-in-the-open-book.webp?b=1&s=170667a&w=0&k=20&c=Ig06iMcX0CAuwmft5Gn9UKxLD3ySORqmS-3QRbCT6PM="
+    }
+]
